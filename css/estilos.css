@@ -83,7 +83,7 @@ body {
     width: 30px;
 }
 
-.nav__colse {
+.nav__close {
     display: var(--show, none);
 }
 
